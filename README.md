@@ -1,2 +1,2 @@
-# the-chess-game
-the most disruptive game you have ever played!
+# The chess Game
+The most disruptive game, with the most innovative features doing the most effective way to solve problems.
